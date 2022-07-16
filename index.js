@@ -1,0 +1,1 @@
+//ini ntar diisi javascript ok bro
